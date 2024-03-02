@@ -8,4 +8,6 @@ The leadership is interested in viewing the metrics from both an operations and 
 
 A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
 
+Internship Link: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
+
 Dashboard Link: https://www.novypro.com/project/forage-tata-virtual-internship-program-
